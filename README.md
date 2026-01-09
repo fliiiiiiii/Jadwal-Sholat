@@ -1092,7 +1092,7 @@ public class LandakActivity extends AppCompatActivity {
 </p>
 
 <p align="center">
-  Dikembangkan oleh <b>Aflah Athallah Tamam Kapukong</b><br>
+  Dikembangkan oleh <b>Rafli Anugrah Ramadhan</b><br>
   © 2025 • Android Studio • Java • XML
 </p>
 
